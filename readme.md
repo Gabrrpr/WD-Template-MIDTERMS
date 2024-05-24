@@ -6,14 +6,14 @@
 <div align="center">
   <a href="https://github.com/Gabrrpr/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="https://i.pinimg.com/564x/17/e2/f8/17e2f86ed3833e19314ddbf1f5511295.jpg"alt="Nyebe" width="130" height="100">
+    <img src="https://i.pinimg.com/564x/33/09/e5/3309e5b8cd50cd59b081ca21028a01e2.jpg"alt="Nyebe" width="130" height="100">
   </a>
-<!-- TODO: Seatwork #2 -->
-  <h3 align="center">Seatwork #2</h3>
+<!-- TODO: MIDTERMS -->
+  <h3 align="center">MIDTERMS</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Short Description.
 </div>
 
 <br />
@@ -107,7 +107,6 @@ WD-ProjectName
 ## Resources
 
 <!-- TODO: Add References -->
-| Title | Purpose | Link |
 | Fogs on Green Mountain | Background Img | https://images.pexels.com |
 | Sunset Sky | Background Img | https://img.freepik.com |
 | Dark black polygonal illustration | Background img | https://www.pinterest.ph/pin/912190099525614252 |
