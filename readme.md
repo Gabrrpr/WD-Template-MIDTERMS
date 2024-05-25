@@ -131,5 +131,5 @@ WD-ProjectName
 
 | Date: | 5/16/2024: | Designing and applying transitions on webpages |
 
-| Date: | 5/20/2024: | Organize Pages Fomrat |
+| Date: | 5/20/2024: | Organize Pages Format |
 
