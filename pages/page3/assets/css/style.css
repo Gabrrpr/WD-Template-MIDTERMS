@@ -57,9 +57,9 @@ h2 {
     color: #e6e4e4;
 }
 
-.resume-content ul li {
+.resume-content li {
     margin-bottom: 5px;
-    color: aliceblue;
+    color: aliceblue; /* This ensures all list items have the same color */
 }
 
 nav {
