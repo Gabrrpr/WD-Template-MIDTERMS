@@ -109,13 +109,15 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Fogs on Green Mountain | Background Img | https://images.pexels.com |
 
-| Sunset Sky | Background Img | https://img.freepik.com |
+| White Background | Background Img | https://www.freepik.com |
 
 | Dark black polygonal illustration | Background img | https://www.pinterest.ph/pin/912190099525614252 |
 
 | Containers | Transitions | https://www.w3schools.com/w3css/w3css_containers.asp |
 
 | Shadow Box | Button Effect/Design | https://getcssscan.com/css-box-shadow-examples |
+
+| Building a Website in 10 mminutes using HTML and CSS | Layout Ideas | https://www.youtube.com/watch?v=VegDvRLVlOI |
 
 ## Documentation
 
@@ -128,4 +130,6 @@ WD-ProjectName
 | Date: | 5/15/2024: | Learning and application of webpages |
 
 | Date: | 5/16/2024: | Designing and applying transitions on webpages |
+
+| Date: | 5/20/2024: | Organize Pages Fomrat |
 
